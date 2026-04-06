@@ -63,3 +63,16 @@ Example Response:
     "title": "Inception",
     "year": 2010
 }
+
+DATABASE SETUP
+
+The database allows users to store and insert infrormation into a table that can send it between the web application and the Api. It updsates the table whenever something has been insereted, removed, or changed.
+
+Example:
+
+CREATE DATABASE assignment8;
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100),
+    email VARCHAR(100)
+)
