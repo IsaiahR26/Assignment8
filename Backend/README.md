@@ -76,3 +76,23 @@ CREATE TABLE users (
     name VARCHAR(100),
     email VARCHAR(100)
 )
+
+
+AUTHENTICATION AND SECURITY
+
+Authentication mechanisms make sure that it's really you who are using the correct information. For example, if you're logging in, OAuth will send a number that you need to input to verify that it's you. It'll either sometimes send it to your email, and app, or your phone number.
+
+POST /login
+
+Request Example:
+
+{
+    "username: "john",
+    "password" "mypassword"
+}
+
+Example Response:
+
+{
+    "token": "abc123xyz"
+}
