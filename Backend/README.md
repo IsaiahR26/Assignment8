@@ -1,4 +1,4 @@
-# Assignment8-FrontEnd-
+# Assignment8-Backend-
 
 API APPLICATION
 
@@ -96,3 +96,22 @@ Example Response:
 {
     "token": "abc123xyz"
 }
+
+
+DEPLOYMENT GUIDE
+
+You can deploy the web application and Api to a live site by uploading the repository.
+
+Services to upload your repository can include:
+
+- RENDER
+- NETLIFY
+- AWS
+- Digital Ocean
+- Heroku
+
+Example:
+
+git push origin main
+
+This command can upload the backent to a remote repository. It then connects to a service like Render that can run the application in a live setting.
