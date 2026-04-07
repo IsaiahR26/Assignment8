@@ -1,4 +1,13 @@
 # Assignment8-FrontEnd-
+WEB APPLICAITON 
+
+DESCRIPTION
+
+The frond end of the application allows users to interact with the web browser and its contents. 
+The front end works to display information and collect user input. 
+
+The goal of the front end works as a userinterface that connects to the back end application, allowing access to its database.
+
 
 TABLE OF CONTENTS
 
@@ -8,16 +17,6 @@ TABLE OF CONTENTS
 4. API INTEGRATION
 5. CONTRIBUTING GUIDLINES
 6. LICENSE
-
-
-WEB APPLICAITON
-
-DESCRIPTION
-
-The frond end of the application allows users to interact with the web browser and its contents. 
-The front end works to display information and collect user input. 
-
-The goal of the front end works as a userinterface that connects to the back end application, allowing access to its database.
 
 
 INSTALLATINON AND SETUP
@@ -36,7 +35,7 @@ STEPS TO RUN THE FRONTEND
 3. Find the SSH tab
 4. You'll see a url for the clone link, next to it, you can copy that url link to the clipboard.
 5. Open the repository folder in your visual studio code and open your terminal.
-6. Once you're in the terminal, type in: git clone YOURURLLINKHERE
+6. Once you're in the terminal, type in: git clone git@github.com:IsaiahR26/Assignment8.git
 
 
 USAGE INSTRUCTIONS

@@ -10,13 +10,12 @@ The goal of the backend works to send requests to the front end and the database
 
 TABLE OF CONTENTS
 
-1. PROJECT TITLE AND OVERVIEW
-2. INSTALLATION AND SETUP
-3. API DOCUMENTATION
-4. DATABASE SETUP
-5. AUTHENTICATION AND SECURITY
-6. DEPLOYMENT GUIDE
-7. LICENSE AND CONTRIBUTION GUIDELINES
+1. INSTALLATION AND SETUP
+2. API DOCUMENTATION
+3. DATABASE SETUP
+4. AUTHENTICATION AND SECURITY
+5. DEPLOYMENT GUIDE
+6. LICENSE AND CONTRIBUTION GUIDELINES
 
 
 INSTALLATION AND SETUP
@@ -32,7 +31,7 @@ Steps to Install:
 
 1. Download the clone by copying the clone url and going into the terminal in
 visual studio code.
-2. Type: git clone ENTERYOURURLHERE
+2. Type: git clone git@github.com:IsaiahR26/Assignment8.git
 3. Install npm: npm install
 4. Then start the installation: npm start
 
