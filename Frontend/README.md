@@ -6,17 +6,16 @@ DESCRIPTION
 The frond end of the application allows users to interact with the web browser and its contents. 
 The front end works to display information and collect user input. 
 
-The goal of the front end works as a userinterface that connects to the back end application, allowing access to its database.
+The goal of the front end works as a user interface that connects to the back end application, allowing access to its database.
 
 
 TABLE OF CONTENTS
 
-1. PROJECT TITLE AND OVERVIEW
-2. INSTALLATION AND SETUP
-3. USAGE INSTRUCTIONS
-4. API INTEGRATION
-5. CONTRIBUTING GUIDLINES
-6. LICENSE
+1. INSTALLATION AND SETUP
+2. USAGE INSTRUCTIONS
+3. API INTEGRATION
+4. CONTRIBUTING GUIDELINES
+5. LICENSE
 
 
 INSTALLATINON AND SETUP
@@ -26,7 +25,7 @@ Prerequisites:
 - Visual Studio Code
 - Node.js
 - Git (bash)
-- Google or any other Webbrowser
+- Google or any other Web browser
 
 STEPS TO RUN THE FRONTEND
 

@@ -63,9 +63,10 @@ Example Response:
     "year": 2010
 }
 
+
 DATABASE SETUP
 
-The database allows users to store and insert infrormation into a table that can send it between the web application and the Api. It updsates the table whenever something has been insereted, removed, or changed.
+The database allows users to store and insert infrormation into a table that can send it between the web application and the Api. It updates the table whenever something has been insereted, removed, or changed.
 
 Example:
 
