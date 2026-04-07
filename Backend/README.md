@@ -115,3 +115,12 @@ Example:
 git push origin main
 
 This command can upload the backent to a remote repository. It then connects to a service like Render that can run the application in a live setting.
+
+
+LICENSE AND CONTRIBUTION GUIDELINES
+
+Example: 
+
+This project is licensed under the MIT license.
+
+People working on the project can create their own fork from the main in the repository. They can create their own pull and push requests.
